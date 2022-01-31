@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Vidhi Jain",
+    "occupation": "Student",
+    "description": "I eat . sleep . breathe . code",
+    "image": "profilepic.jpg",
+    "bio": "Hey I am a second year engineering student. I love to code in c++. I have tried my hands on web development and I love it. I am also interested in stock market. I like to paint, cycle and make journals.",
+    "contactmessage": "Get in touch with me",
+    "email": "vidhijain470@gmail.com",
+    "phone": "+91 9870586268",
+    "address": {
+      "street": "Pitampura",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110034"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1WWuLgqgTZbxHlYeCj4PfFesNpV88WtcJ/view?usp=sharing",
+    "social": [
+      
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vidhi-jain-317633205/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/haulsum/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/vidhijain470",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "degree": "Bachelor's of Technology, Information Technology",
+        "graduated": "2020 - 2024",
+        "description": "CGPA : 9.87 (till 3rd semester)"
+      },
+      {
+        "school": "Bal Bharati Public School, Pitampura",
+        "degree": "",
+        "graduated": "2006 - 2020",
+        "description": "CBSE class 10 : 10 CGPA CBSE class 12 : 92.6 % "
+        
+      }
+    ],
+    "work": [
+      {
+        "company": "Coding Ninjas",
+        "title": "Teaching assistant",
+        "years": "June 2021 - Sept 2021",
+        "description": "Helped 50+ students to clear their doubts about Data Structures and Algorithms and Object-Oriented Programming in C++ and also helped them to apply the same in various good problems. Debugged 1020 doubts of students pursuing the course with an excellent rating of 4.80/5.0."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://challenge-b9e75.web.app/"
+      },
+      {
+        "title": "Drum Kit",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://vidhijain470.github.io/drumkit/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
